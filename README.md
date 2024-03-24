@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm a Full Stack Web Developer specializing in MERN stack.<br>🔭 I’m open to learning new technologies and exploring other domains
+⚡ I'm a Full Stack Web Developer specializing in MERN stack.<br>🔭 I’m open to learning new technologies and exploring other domains.
 
 
 ## 🌐 Socials:
